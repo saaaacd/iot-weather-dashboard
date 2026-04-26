@@ -1,4 +1,4 @@
-# 🌤️ IoT Weather Dashboard (台灣氣溫預報儀表板)
+# 🌤️ 台灣氣溫雙模式綜合儀表板 (IoT Weather Dashboard)
 
 此專案為物聯網應用開發之一環，完整實作了**從政府開放資料 (Open Data) 擷取、資料重構、關聯式資料庫儲存到前端資料視覺化**的 End-to-End 開發流程。
 
