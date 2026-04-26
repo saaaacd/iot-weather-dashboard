@@ -126,7 +126,7 @@ def main():
                 
                 with col_left:
                     st.markdown("#### 📍 互動式台灣氣溫地圖")
-                    m = folium.Map(location=[23.7, 120.9], zoom_start=7, tiles="CartoDB positron")
+                    m = folium.Map(location=[23.7, 120.9], zoom_start=7, tiles="OpenStreetMap")
                     for idx, row in df_daily.iterrows():
                         region = row['regionName']
                         if region in REGION_COORDS:
@@ -138,7 +138,7 @@ def main():
                                 icon=folium.Icon(color="red" if row['MaxT'] >= 30 else "blue", icon="info-sign")
                             ).add_to(m)
                     
-                    st_folium(m, width="100%", height=450)
+                    st_folium(m, use_container_width=True, height=450)
                     
                 with col_right:
                     st.markdown("#### 📋 各區高低溫對比長條圖")
