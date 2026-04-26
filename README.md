@@ -8,8 +8,8 @@
 - 📡 **氣象署 API 串接**：自動抓取並解析 [交通部中央氣象署](https://opendata.cwa.gov.tw/) 的 F-A0010-001 資料集 (JSON 格式)。
 - 🧹 **資料清洗與提煉**：雙層迴圈解析複雜樹狀結構，精準洗出每日「最高溫 (MaxT)」與「最低溫 (MinT)」。
 - 🗄️ **SQLite3 持久化儲存**：全自動建立 `data.db` 資料庫與正規化表單，透過 SQL 語法進行安全的參數綁定寫入。
-- 📊 **Streamlit 互動式儀表板**：提供直覺的下拉選單、支援亮/暗色主題的漸層介面、以及帶有極值提示的自動計算看板。
-- ✨ **互動視覺特效**：結合原生 HTML/Canvas，於網頁底層注入支援滑鼠引力追蹤的動態粒子特效。
+- 📊 **Streamlit 雙模式儀表板**：透過 Tabs 切換「依地區看一週趨勢」與「依日期看全台動態」雙系統。
+- 🗺️ **Folium 互動式地理圖**：整合 `streamlit-folium`，將氣溫數據與真實經緯度結合，打上紅藍氣溫地標，點擊可顯示深入資訊的 Popup。
 
 ---
 
@@ -17,7 +17,7 @@
 - **語言**：Python 3.8+
 - **後端與資料庫**：SQLite3, `requests`
 - **資料處理**：`pandas`, `json`
-- **前端視覺化**：`streamlit`, Native JavaScript Canvas
+- **前端視覺化與空間地理(GIS)**：`streamlit`, `folium`, `streamlit-folium`
 
 ---
 
@@ -26,7 +26,7 @@
 ### 1. 安裝所需套件
 請確保你的環境中已安裝所需框架：
 ```bash
-pip install requests pandas streamlit
+pip install requests pandas streamlit folium streamlit-folium
 ```
 
 ### 2. 執行資料流腳本
