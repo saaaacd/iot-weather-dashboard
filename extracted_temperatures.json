@@ -1,0 +1,242 @@
+[
+    {
+        "Location": "北部地區",
+        "Temperatures": [
+            {
+                "Date": "2026-04-27",
+                "Max_Temp_C": "31",
+                "Min_Temp_C": "17"
+            },
+            {
+                "Date": "2026-04-28",
+                "Max_Temp_C": "32",
+                "Min_Temp_C": "20"
+            },
+            {
+                "Date": "2026-04-29",
+                "Max_Temp_C": "28",
+                "Min_Temp_C": "21"
+            },
+            {
+                "Date": "2026-04-30",
+                "Max_Temp_C": "22",
+                "Min_Temp_C": "19"
+            },
+            {
+                "Date": "2026-05-01",
+                "Max_Temp_C": "27",
+                "Min_Temp_C": "19"
+            },
+            {
+                "Date": "2026-05-02",
+                "Max_Temp_C": "30",
+                "Min_Temp_C": "20"
+            },
+            {
+                "Date": "2026-05-03",
+                "Max_Temp_C": "31",
+                "Min_Temp_C": "21"
+            }
+        ]
+    },
+    {
+        "Location": "中部地區",
+        "Temperatures": [
+            {
+                "Date": "2026-04-27",
+                "Max_Temp_C": "31",
+                "Min_Temp_C": "18"
+            },
+            {
+                "Date": "2026-04-28",
+                "Max_Temp_C": "33",
+                "Min_Temp_C": "21"
+            },
+            {
+                "Date": "2026-04-29",
+                "Max_Temp_C": "31",
+                "Min_Temp_C": "22"
+            },
+            {
+                "Date": "2026-04-30",
+                "Max_Temp_C": "26",
+                "Min_Temp_C": "20"
+            },
+            {
+                "Date": "2026-05-01",
+                "Max_Temp_C": "30",
+                "Min_Temp_C": "20"
+            },
+            {
+                "Date": "2026-05-02",
+                "Max_Temp_C": "31",
+                "Min_Temp_C": "21"
+            },
+            {
+                "Date": "2026-05-03",
+                "Max_Temp_C": "32",
+                "Min_Temp_C": "22"
+            }
+        ]
+    },
+    {
+        "Location": "南部地區",
+        "Temperatures": [
+            {
+                "Date": "2026-04-27",
+                "Max_Temp_C": "32",
+                "Min_Temp_C": "21"
+            },
+            {
+                "Date": "2026-04-28",
+                "Max_Temp_C": "33",
+                "Min_Temp_C": "22"
+            },
+            {
+                "Date": "2026-04-29",
+                "Max_Temp_C": "32",
+                "Min_Temp_C": "24"
+            },
+            {
+                "Date": "2026-04-30",
+                "Max_Temp_C": "30",
+                "Min_Temp_C": "22"
+            },
+            {
+                "Date": "2026-05-01",
+                "Max_Temp_C": "31",
+                "Min_Temp_C": "21"
+            },
+            {
+                "Date": "2026-05-02",
+                "Max_Temp_C": "32",
+                "Min_Temp_C": "23"
+            },
+            {
+                "Date": "2026-05-03",
+                "Max_Temp_C": "32",
+                "Min_Temp_C": "23"
+            }
+        ]
+    },
+    {
+        "Location": "東北部地區",
+        "Temperatures": [
+            {
+                "Date": "2026-04-27",
+                "Max_Temp_C": "30",
+                "Min_Temp_C": "18"
+            },
+            {
+                "Date": "2026-04-28",
+                "Max_Temp_C": "30",
+                "Min_Temp_C": "21"
+            },
+            {
+                "Date": "2026-04-29",
+                "Max_Temp_C": "28",
+                "Min_Temp_C": "22"
+            },
+            {
+                "Date": "2026-04-30",
+                "Max_Temp_C": "22",
+                "Min_Temp_C": "20"
+            },
+            {
+                "Date": "2026-05-01",
+                "Max_Temp_C": "24",
+                "Min_Temp_C": "19"
+            },
+            {
+                "Date": "2026-05-02",
+                "Max_Temp_C": "28",
+                "Min_Temp_C": "20"
+            },
+            {
+                "Date": "2026-05-03",
+                "Max_Temp_C": "29",
+                "Min_Temp_C": "21"
+            }
+        ]
+    },
+    {
+        "Location": "東部地區",
+        "Temperatures": [
+            {
+                "Date": "2026-04-27",
+                "Max_Temp_C": "27",
+                "Min_Temp_C": "19"
+            },
+            {
+                "Date": "2026-04-28",
+                "Max_Temp_C": "28",
+                "Min_Temp_C": "22"
+            },
+            {
+                "Date": "2026-04-29",
+                "Max_Temp_C": "29",
+                "Min_Temp_C": "23"
+            },
+            {
+                "Date": "2026-04-30",
+                "Max_Temp_C": "24",
+                "Min_Temp_C": "21"
+            },
+            {
+                "Date": "2026-05-01",
+                "Max_Temp_C": "24",
+                "Min_Temp_C": "21"
+            },
+            {
+                "Date": "2026-05-02",
+                "Max_Temp_C": "27",
+                "Min_Temp_C": "20"
+            },
+            {
+                "Date": "2026-05-03",
+                "Max_Temp_C": "28",
+                "Min_Temp_C": "22"
+            }
+        ]
+    },
+    {
+        "Location": "東南部地區",
+        "Temperatures": [
+            {
+                "Date": "2026-04-27",
+                "Max_Temp_C": "29",
+                "Min_Temp_C": "21"
+            },
+            {
+                "Date": "2026-04-28",
+                "Max_Temp_C": "29",
+                "Min_Temp_C": "23"
+            },
+            {
+                "Date": "2026-04-29",
+                "Max_Temp_C": "30",
+                "Min_Temp_C": "23"
+            },
+            {
+                "Date": "2026-04-30",
+                "Max_Temp_C": "28",
+                "Min_Temp_C": "23"
+            },
+            {
+                "Date": "2026-05-01",
+                "Max_Temp_C": "27",
+                "Min_Temp_C": "22"
+            },
+            {
+                "Date": "2026-05-02",
+                "Max_Temp_C": "29",
+                "Min_Temp_C": "21"
+            },
+            {
+                "Date": "2026-05-03",
+                "Max_Temp_C": "30",
+                "Min_Temp_C": "23"
+            }
+        ]
+    }
+]
